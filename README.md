@@ -1,7 +1,9 @@
-#HEADING 1
+#HEADING 1#
 
 MY NAME IS **DULAKSHA**
 
-``sh
-hello world
-sh``
+``
+printf("hellow world");
+int main()
+
+``
