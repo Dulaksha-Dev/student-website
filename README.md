@@ -5,5 +5,4 @@ MY NAME IS **DULAKSHA**
 ``
 printf("hellow world");
 int main()
-
 ``
